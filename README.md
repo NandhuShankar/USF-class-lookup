@@ -3,10 +3,11 @@ a python script that takes either a CRN or class name, and outputs a list of ava
 
 before you run this install selenium and the chrome webdriver
 Installing selenium
-1.go to cmd
+1. go to cmd
 2. type pip and enter
 3. if you get a list then continue. If not then configure pip 
 4. type pip install selenium
+
 you installed selenium! import selenium should be highlighted in vscode
 
 Installing chrome webdriver
